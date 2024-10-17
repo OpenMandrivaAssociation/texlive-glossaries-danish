@@ -3,7 +3,7 @@ Version:	35665
 Release:	2
 Summary:	Danish language module for glossaries package
 Group:		Publishing
-URL:		http://www.ctan.org/tex-archive/macros/latex/contrib/glossaries-danish
+URL:		https://www.ctan.org/tex-archive/macros/latex/contrib/glossaries-danish
 License:	lppl1.3
 Source0:	http://mirrors.ctan.org/systems/texlive/tlnet/archive/glossaries-danish.r%{version}.tar.xz
 Source1:	http://mirrors.ctan.org/systems/texlive/tlnet/archive/glossaries-danish.doc.r%{version}.tar.xz
